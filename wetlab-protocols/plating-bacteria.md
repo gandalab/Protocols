@@ -25,7 +25,7 @@ In the laboratory you may need to culture bacteria. To do this, there is a prope
 2. Prepared plates are stored in the refrigerator in Room 330D. Transfer the plates with appropriate media to the hood. 
 3. In the hood, use inoculation loops to transfer bacteria aseptically to the plate. Use three (3) loops (Loop 1 - black, Loop 2 - Blue, and Loop 3 - Red) to streak the colonies as shown below. 
 
-![fig 1](https://github.com/sjc6663/Protocols/blob/ded003c2eac1e66978e0dc4503fbcefb077df3bc/images/plate-streak.png)  
+![fig 1](https://github.com/gandalab/Protocols/blob/ed8483ba271e7c2c185d796f62a503abb813446c/images/plate-streak.png)  
 **Figure 1. Streaking locations for loops on bacteria plates.**
 
 4. Place the plate upside down until ready to put in the incubator. Make sure to label the plate with sample ID, your initials, and the date.
