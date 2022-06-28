@@ -1,5 +1,7 @@
 # Cleanup Pooled Library
 
+*This protocol has been adapted from the protocols of Jordan Bisanz Laboratory at the Pennsylvania State University.*
+
 ## Gather Materials
 
 - [ ] AMPure XP beads
