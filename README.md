@@ -2,29 +2,29 @@
 
 ## Wetlab Protocols
 
-Protocol 1: [Sample Pre-Processing]  
-Protocol 2: [DNA Extraction - Fecal]  
-Protocol 3: [DNA Extraction - Bacteria]  
-Protocol 4: [DNA Quantification - Nanodrop]  
-Protocol 5: [DNA Quantification - Qubit]  
-Protocol 6: [16S PCR]  
-Protocol 7: [Agarose Gel Electrophoresis]  
-Protocol 8: [AMPure Purification]  
-Protocol 9: [GeneJET Column Purification]  
+Protocol 1: [Sample Pre-Processing](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/sample-processing.md)  
+Protocol 2: [DNA Extraction - Fecal](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/dna-extraction-fecal.md)  
+Protocol 3: [DNA Extraction - Bacteria](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/dna-extraction-bacteria.md)  
+Protocol 4: [DNA Quantification - Nanodrop](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/quantification-nanodrop.md)  
+Protocol 5: [DNA Quantification - Qubit](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/quantification-qubit.md)  
+Protocol 6: [16S PCR](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/16s-pcr.md)  
+Protocol 7: [Agarose Gel Electrophoresis](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/gel-electrophoresis.md)  
+Protocol 8: [AMPure Purification](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/ampure-purification.md)  
+Protocol 9: [GeneJET Column Purification](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/column-purification.md)  
 
-Protocol 10: [Media Preparation]  
-Protocol 11: [Plating Bacteria]  
-Protocol 12: [Making Glycerol Stocks]  
+Protocol 10: [Media Preparation](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/media-prep.md)  
+Protocol 11: [Plating Bacteria](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/plating-bacteria.md)  
+Protocol 12: [Making Glycerol Stocks](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/glycerol-stock.md)  
 
-Protocol 13: [ELISA]
+Protocol 13: [ELISA](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/elisa-dublin.md)
 
 ### 16S Library Prep
-Protocol 14: [Indexing PCR]  
-Protocol 15: [Pooling]  
-Protocol 16: [Clean Up]  
+Protocol 14: [Indexing PCR](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/indexing-pcr.md)  
+Protocol 15: [Pooling](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/pooling.md)  
+Protocol 16: [Clean Up](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/cleanup.md)  
 
 ## Bioinformatics Protocols
-Protocol 00: [Basic 16S Procedure]
+Protocol 00: [Basic 16S Procedure](https://github.com/gandalab/Protocols/blob/main/bioinformatics/basic-16s.md)
 
 ## Archived Protocols
-Protocol A: [DNA Extraction - MagMAX CORE Kit]
+Protocol A: [DNA Extraction - MagMAX CORE Kit](https://github.com/gandalab/Protocols/blob/main/archived-protocols/core-extraction.md)
