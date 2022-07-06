@@ -29,15 +29,15 @@ This protocol is for doing 16S rRNA polymerase chain reaction (PCR). This protoc
 
 ## Master Mix Preparation
 
-1. In a sterile centrifuge tube labeled "Master Mix/MM" combine *10uL/sample Invitrogen Platinum SuperFi Master Mix, 0.4uL/sample 515F Parrada Primer, 0.4uL/sample 806R Apprill Primer, and 7.2uL sterile PCR water.* Prepare enough master mix for 100 samples if running a full plate as follows: 
+1. In a sterile centrifuge tube labeled "Master Mix/MM" combine *10uL/sample Invitrogen Platinum SuperFi Master Mix, 0.4uL/sample 515F Parrada Primer, 0.4uL/sample 806R Apprill Primer, and 7.2uL sterile PCR water.*  You can use the 3.1a_PCR-Master-Mix-Workbook Excel file to calculate how much master mix to prepare based on the number of samples you have. 
 
-**Table 1. Master mix preparation volumes**
+**Table 1. Master mix preparation volumes per 20uL reaction**
 Reagent | Volume
 -----|-----
-Invitrogen Platinum SuperFi Master Mix | 1mL (1000uL)
-515F Parrada Primer (10uM) | 40uL
-806R Apprill Primer (10uM) | 40uL
-Sterile PCR Water | 720uL
+Invitrogen Platinum SuperFi Master Mix | 10uL
+515F Parrada Primer (10uM) | 0.4uL
+806R Apprill Primer (10uM) | 0.4uL
+Sterile PCR Water | 7.2uL
 
 3. Vortex and spin down.
 
