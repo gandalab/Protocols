@@ -26,9 +26,9 @@
 2.	Add 6uL of Master Mix to 30 wells of the plate [this is for (6 standards x 3 replicates) + (3 dilutions of library + 3 negative controls)]
 3.	Transfer 4uL of the 6 standards into triplicate wells.
 4.	Create a dilution series of your library in dilution buffer with the following dilutions:  
-      a. 2uL of library into 198uL buffer (100x)  
-      b. 2uL of 1:100 dilution into 198uL buffer (10,000x)  
-      c. 20uL of 1:10,000 dilution into 180uL buffer (100,000x)  
+      a. 2uL of library into 198uL buffer (100x) ↩️  
+      b. 2uL of 1:100 dilution into 198uL buffer (10,000x) ↩️  
+      c. 20uL of 1:10,000 dilution into 180uL buffer (100,000x) ↩️  
       d. 20uL of 1:100,000 dilution into 180uL buffer (1,000,000x)  
 5.	Transfer 4uL of dilutions b, c, and d in triplicate to appropriate wells.
 6.	Seal plate with optically clear seal and centrifuge briefly.
