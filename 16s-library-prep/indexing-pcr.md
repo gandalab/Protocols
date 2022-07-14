@@ -31,7 +31,7 @@
 3. Make indexing PCR master mix as outlined in the table below:
 
 **Table 1. Indexing PCR Master Mix**
-Reagent | 1 Reaction (20uL) | 110 Reactsion (Full Plate)
+Reagent | 1 Reaction (20uL) | 110 Reactions (Full Plate)
 ------|------|------
 5X KAPA HiFi Buffer | 4uL | 440uL 
 10mM dNTPs | 0.6uL | 66uL
