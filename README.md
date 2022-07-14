@@ -22,6 +22,7 @@ Protocol 13: [ELISA](https://github.com/gandalab/Protocols/blob/main/wetlab-prot
 Protocol 14: [Indexing PCR](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/indexing-pcr.md)  
 Protocol 15: [Pooling](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/pooling.md)  
 Protocol 16: [Clean Up](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/cleanup.md)  
+Protocol 17: [Library QC](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/library-qc.md)  
 
 ## Bioinformatics Protocols
 Protocol 00: [Basic 16S Procedure](https://github.com/gandalab/Protocols/blob/main/bioinformatics/basic-16s.md)
