@@ -34,6 +34,16 @@
 6.	Seal plate with optically clear seal and centrifuge briefly.
 7.	Amplify according to the parameters below: 
 
+**Table 1. Library Quantification qPCR**
+Cycle	| Temperature (˚C) | Time
+------|------------------|------
+Initial Denaturation | 95 | 5 min
+35 cycles:	
+Denature | 95 | 30 sec
+Anneal/Extend | 60 | 45 sec
+Melt Curve | 65->95 | NA
+
+
 ## qPCR Analysis
 
 1. After completing the run, export the data. 
