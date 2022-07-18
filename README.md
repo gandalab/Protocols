@@ -16,13 +16,14 @@ Protocol 10: [Media Preparation](https://github.com/gandalab/Protocols/blob/main
 Protocol 11: [Plating Bacteria](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/plating-bacteria.md)  
 Protocol 12: [Making Glycerol Stocks](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/glycerol-stock.md)  
 
-Protocol 13: [ELISA](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/elisa-dublin.md)
+Protocol 13: [ELISA](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/elisa-dublin.md)  
+Protocol 14: [Speed Vac Concentration]()
 
 ### 16S Library Prep
-Protocol 14: [Indexing PCR](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/indexing-pcr.md)  
-Protocol 15: [Pooling](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/pooling.md)  
-Protocol 16: [Clean Up](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/cleanup.md)  
-Protocol 17: [Library QC](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/library-qc.md)  
+Protocol 1: [Indexing PCR](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/indexing-pcr.md)  
+Protocol 2: [Pooling](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/pooling.md)  
+Protocol 3: [Clean Up](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/cleanup.md)  
+Protocol 4: [Library QC](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/library-qc.md)  
 
 ## Bioinformatics Protocols
 Protocol 00: [Basic 16S Procedure](https://github.com/gandalab/Protocols/blob/main/bioinformatics/basic-16s.md)
