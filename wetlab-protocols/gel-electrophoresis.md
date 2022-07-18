@@ -73,3 +73,5 @@ After performing 16S PCR, one of the best ways to determine success of the react
 17. Upload your image to your OneDrive using the Google Chrome or Microsoft Edge browser. 
 18. Close all programs and sign out of the computer. 
 19. Pull out the tray and remove your gel. Spray wiht 70% ethanol and wipe down with a KimWipe. 
+
+## [Troubleshooting Your Gel](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/troubleshooting/agarose-gel.md)
