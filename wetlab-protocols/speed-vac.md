@@ -29,6 +29,6 @@
 5. Quantify your samples using Qubit.
 6. If necessary, repeat. You may change the drying rate and the timer. 
 
-![fig 1]([https://github.com/gandalab/Protocols/blob/main/images/speed-vac-setup.png](https://github.com/gandalab/Protocols/blob/main/images/speed-vac-setup.png?raw=true))  
+![fig 1](https://github.com/gandalab/Protocols/blob/main/images/speed-vac-setup.png)  
 **Figure 1. Proper Speed Vac Setup**
 
