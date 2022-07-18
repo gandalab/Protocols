@@ -101,3 +101,5 @@ Invitrogen UltraPure Water | 40mL
 6. After the program completes, you will be prompted to unload your plates. Keep the elution plate, seal with fresh plate film and store at 4°C. **If storing for longer term, transfer elution to nonstick DNA tubes and store in the -80°C freezer.**
 7. All other plates can be discarded in the biohazard waste bin. 
 8. Turn off the Kingfisher and wipe down with 70% ethanol. 
+
+## [Troubleshooting Your DNA Extraction](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/troubleshooting/dna-extraction.md)
