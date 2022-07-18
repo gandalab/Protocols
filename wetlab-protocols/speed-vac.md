@@ -29,6 +29,6 @@
 5. Quantify your samples using Qubit.
 6. If necessary, repeat. You may change the drying rate and the timer. 
 
-
+![fig 1]()  
 **Figure 1. Proper Speed Vac Setup**
 
