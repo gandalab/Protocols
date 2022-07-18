@@ -8,7 +8,7 @@
 
 ## Concentration
 
-1. Upon arrival to room 321C, make sure that the speed vac is setup properly. This means that the orange tubes are connected to the clear speed vac tube and the black vacuum tube. See the image on the next page for proper setup. 
+1. Upon arrival to room 321C, make sure that the speed vac is setup properly. This means that the orange tubes are connected to the clear speed vac tube and the black vacuum tube. See figure 1 for proper setup. 
 2. The flask in the center should be properly sealed with the black rubber topper and have a good amount of dry silica gel. Add some to it or remove the old if you think necessary.  
       a. This step is ESSENTIAL so that no liquid gets sucked into the vacuum pump. 
 3. Lift the clear lid on the speed vac and load the samples into the rack with the lids OPEN. This is important for evaporation. Load all samples into the equipment balanced, as you would a centrifuge.
