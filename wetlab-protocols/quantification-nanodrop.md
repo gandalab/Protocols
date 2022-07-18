@@ -27,3 +27,5 @@ In order to work with DNA, we need to know how much DNA we have. Nanodrop is a t
 11. Clean pedestals with a KimWipe. 
 12. Turn off the Nanodrop with the power button on the back. 
 13. Clean entire area with 70% alcohol.
+
+## [Troubleshooting Your Quantification](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/troubleshooting/quantification.md)
