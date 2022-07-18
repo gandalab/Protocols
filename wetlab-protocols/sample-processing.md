@@ -131,3 +131,5 @@ For aliquoting water, work in the Biological Safety Cabinet.
 5. Resuspend pellet in 1mL PBS.
 6. Homogenize tubes for 30 minutes in Bead Ruptor at 20Hz.
 7. Store in -80dC.
+
+## [Troubleshooting Your Samples](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/troubleshooting/sample-preprocessing.md)
