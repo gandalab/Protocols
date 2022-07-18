@@ -34,3 +34,5 @@ In order to work with DNA, we need to know how much DNA we have. Qubit uses fluo
 17. Make sure the volume says 2uL and output is ng/uL.
 18. Read all of your samples. 
 19. Record quantification in lab notebook. 
+
+## [Troubleshooting Your Quantification](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/troubleshooting/quantification.md)
