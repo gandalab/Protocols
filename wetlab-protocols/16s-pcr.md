@@ -58,3 +58,5 @@ Cycle 4 | 15 seconds | 72°C
 Repeat Cycles 2-4 (30X)
 Cycle 5| 5 minutes | 72°C
 Hold at 4°C
+
+## [Troubleshooting Your PCR](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/troubleshooting/pcr.md)
