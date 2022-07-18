@@ -17,7 +17,7 @@ Protocol 11: [Plating Bacteria](https://github.com/gandalab/Protocols/blob/main/
 Protocol 12: [Making Glycerol Stocks](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/glycerol-stock.md)  
 
 Protocol 13: [ELISA](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/elisa-dublin.md)  
-Protocol 14: [Speed Vac Concentration]()
+Protocol 14: [Speed Vac Concentration](https://github.com/gandalab/Protocols/blob/main/wetlab-protocols/speed-vac.md)
 
 ### 16S Library Prep
 Protocol 1: [Indexing PCR](https://github.com/gandalab/Protocols/blob/main/16s-library-prep/indexing-pcr.md)  
