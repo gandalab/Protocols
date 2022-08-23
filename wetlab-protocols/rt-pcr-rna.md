@@ -61,8 +61,8 @@ Step | Temperature | Time | Number of Cycles
 Reverse Transcription	| 45-60C | 10 minutes | 1
 RT inactivation/initial denaturation | 98C | 2 minutes	
 Amplification | 98C | 10 seconds| 35-**40**
-	| 55-72C | 10 seconds | 
-	| 72C | 30 seconds/kb | 
+Amplification | 55-72C | 10 seconds | 
+Amplification | 72C | 30 seconds/kb | 
 Final Extension | 72C | 5 minutes | 1
 
 
