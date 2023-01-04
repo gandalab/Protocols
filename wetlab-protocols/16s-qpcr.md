@@ -24,7 +24,7 @@ This protocol is for the real time amplification of samples using SYBR Green mas
 - [ ] Sterile 2.0mL Centrifuge Tubes
 - [ ] Template DNA
 - [ ] Forward and Reverse Primers (0.5uM)
-- [ ] PowerUp SYBR Green Master Mix
+- [ ] PowerUp SYBR Green Master Mix (ThermoFisher Scientific, A25780)
 
 ## Master Mix Preparation
 
