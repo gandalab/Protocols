@@ -16,7 +16,7 @@ For aliquoting water, work in the Biological Safety Cabinet.
 
 ### Gather Materials
 
-- [ ] UltraPure Grade Nuclease Free Water
+- [ ] UltraPure Grade Nuclease Free Water (ThermoFisher, 10977023) 
 - [ ] Serological Pipette
 - [ ] Serologicla Pipette Tip (5mL, 25mL, 50mL)
 - [ ] 2.0mL microcentrifuge tube (2/sample)
@@ -48,7 +48,7 @@ For aliquoting water, work in the Biological Safety Cabinet.
 
 ### Gather Materials
 
-- [ ] UltraPure Grade Nuclease Free Water
+- [ ] UltraPure Grade Nuclease Free Water (ThermoFisher, 10977023)
 - [ ] Serological Pipette
 - [ ] Serologicla Pipette Tip (5mL, 25mL, 50mL)
 - [ ] 2.0mL microcentrifuge tube (2/sample)
@@ -81,7 +81,7 @@ For aliquoting water, work in the Biological Safety Cabinet.
 ### Gather Materials
 
 - [ ] Sterile 2.0mL centrifuge tubes
-- [ ] Ultra Pure Grade PBS
+- [ ] Ultra Pure Grade PBS (VWR, K812-500ML)
 - [ ] Micropipette (P1000)
 - [ ] Pipette Tips (1000uL)
 - [ ] Tweezers
@@ -116,7 +116,7 @@ For aliquoting water, work in the Biological Safety Cabinet.
 ### Gather Materials
 
 - [ ] Sterile 2.0mL Centrifuge tubes
-- [ ] Ultra Pure Grade PBS
+- [ ] Ultra Pure Grade PBS (VWR, K812-500ML)
 - [ ] Micropipette (P1000)
 - [ ] Pipette Tips (1000uL)
 - [ ] VWR Marker
