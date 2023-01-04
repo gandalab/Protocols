@@ -15,9 +15,9 @@ This protocol is for doing 16S rRNA polymerase chain reaction (PCR). This protoc
 
 ## Gather Materials
 
-- [ ] Invitrogen Platinum SuperFi Master Mix
-- [ ] 515F Parrada Primer at 10uM
-- [ ] 806R Apprill Primer at 10uM
+- [ ] Invitrogen Platinum SuperFi Master Mix (ThermoFisher Scientific, 12369050)
+- [ ] 515F Parrada Primer at 10uM (TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGGTGYCAGCMGCCGCGGTAA)
+- [ ] 806R Apprill Primer at 10uM (GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGGGACTACNVGGGTWTCTAAT)
 - [ ] Sterile PCR Water
 - [ ] PCR Plate/Tube Rack
 - [ ] Adhesive Film
