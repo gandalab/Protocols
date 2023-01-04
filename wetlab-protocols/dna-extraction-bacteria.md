@@ -15,21 +15,21 @@ You will be doing the DNA plate and sample preparation in the biological safety 
 *Remember, before placing any objects in the hood, they must be sprayed with 70% ethanol.*
 
 ## Gather Materials
-- [ ] MagMAX™ MICROBIOME Ultra Nucleic Acid Isolation Kit 
-- [ ] 200PF Molecular Grade Ethanol
-- [ ] Nuclease-Free Water
+- [ ] MagMAX™ MICROBIOME Ultra Nucleic Acid Isolation Kit (Thermofisher Scientific, A42358)
+- [ ] 200PF Molecular Grade Ethanol (VWR, 71006-012)
+- [ ] Nuclease-Free Water 
 - [ ] Sterile Pipette Tips (P100, P1000)
 - [ ] Serological Pipettor
 - [ ] Serological Pipettes (25, 50)
 - [ ] 50 mL conical tube(s)
 - [ ] Plate Tube rack
 - [ ] Reagent Reservoirs 
-- [ ] 5 Deep-Well Plates 
-- [ ] 2 Elution Plate
-- [ ] 1 Tip comb 
-- [ ] Plate Films
-- [ ] Bead tubes
-- [ ] Zymo 1:10 (for positive control)
+- [ ] 5 Deep-Well Plates (ThermoFisher Scientific, 95040460)
+- [ ] 2 Elution Plate (ThermoFisher Scientific, 97002540)
+- [ ] 1 Tip comb (ThermoFisher Scientific, 97002820)
+- [ ] Plate Films 
+- [ ] Bead tubes (ThermoFisher Scientific, A42351)
+- [ ] Zymo 1:10 (VWR, 77001-842)
 - [ ] VWR marker
 - [ ] Scissors
 - [ ] Plate Map (reference “2.3_Plate-Map-Template”)
