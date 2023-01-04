@@ -21,7 +21,7 @@ After performing 16S PCR, one of the best ways to determine success of the react
 - [ ] Pipette Tips (10uL, 20uL)
 - [ ] 100bp DNA Ladder
 - [ ] 6X Loading Dye
-- [ ] Sybr Safe DNA Stain
+- [ ] Sybr Safe DNA Stain (ThermoFisher Scientific, S33102)
 - [ ] Graduated Cylinder
 - [ ] Erlenmeyer Flask
 - [ ] Electrophoresis Cell and Power Box
