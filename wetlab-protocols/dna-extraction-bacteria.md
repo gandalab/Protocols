@@ -29,7 +29,7 @@ You will be doing the DNA plate and sample preparation in the biological safety 
 - [ ] 1 Tip comb (ThermoFisher Scientific, 97002820)
 - [ ] Plate Films 
 - [ ] Bead tubes (ThermoFisher Scientific, A42351)
-- [ ] Zymo 1:10 (VWR, 77001-842)
+- [ ] Zymo Microbial Community (VWR, 77001-842)
 - [ ] VWR marker
 - [ ] Scissors
 - [ ] Plate Map (reference “2.3_Plate-Map-Template”)
