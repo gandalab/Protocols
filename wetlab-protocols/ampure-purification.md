@@ -6,7 +6,7 @@ After completion of PCR, there can be an excessive amount of primers left over w
 ## Gather Materials
 
 - [ ] 70% Ethanol
-- [ ] AMPure XP Reagent
+- [ ] AMPure XP Reagent (VWR, 75803-122)
 - [ ] PCR Sample(s)
 - [ ] Micropipettes (P100, P200)
 - [ ] Pipette Tips (100uL, 200uL)
