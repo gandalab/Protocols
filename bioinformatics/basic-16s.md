@@ -85,3 +85,6 @@ scp YOURUSERNAME@submit.aci.ics.psu.edu:/pathway/to/multiqcreport/report.html YO
 - [ ] Have you noted the version of each software you're using?
 2. Clean up your scripts and directories.
 3. Copy over the final products to your local machine to complete downstream analses in R (Recommended to work with the .RData files since they are built to go straight into phyloseq).
+
+For further information, refer to R for Microbial Ecology
+https://mibwurrepo.github.io/R_for_Microbial_Ecology/
