@@ -64,9 +64,9 @@ Wash 1 | Deep Well | Wash Buffer | 1000uL
 Wash 2 | Deep Well | Wash Buffer | 1000uL
 Wash 3 | Deep Well | 80% Ethanol | 1000uL
 Wash 4 | Deep Well | 80% Ethanol | 1000uL
-Elution | Standard Well | Elution Buffer | 200uL*
+Elution | Standard Well | Elution Buffer | 100uL*
 
-*can be reduced to 100uL if 1 fecal swab
+*can be reduced to 50uL if 1 fecal swab
 
 1. Prepare mixture of Viral/Pathogen Binding Solution + DNA/RNA Binding Beads
 Combine <ins>500uL/sample of Viral/Pathogen Binding Solution</ins> and <ins>20uL/sample of DNA/RNA Binding Beads</ins>. 
@@ -75,8 +75,8 @@ Combine <ins>500uL/sample of Viral/Pathogen Binding Solution</ins> and <ins>20uL
 **Table 3. Bead Binding Mix volumes. For a full plate make this reaction in each of two 50mL conical tubes.**
 Solution | Volume
 ------|------
-Viral/Pathogen Binding Solution | 25mL
-DNA/RNA Binding Beads *(vortex vigorously first)* | 1mL (or 1000uL)
+Viral/Pathogen Binding Solution | 27.5mL
+DNA/RNA Binding Beads *(vortex vigorously first)* | 1,100uL
 
 2. Prepare 80% Ethanol Wash Buffer. Make enough 80% Ethanol for 2mL/sample. Check the shelf with the kit reagents for leftover 80% Ethanol in a flask. 
 
@@ -84,7 +84,7 @@ DNA/RNA Binding Beads *(vortex vigorously first)* | 1mL (or 1000uL)
 Solution | Volume
 ------|------
 100% molecular grade ethanol *(in flammable cabinet)* | 160mL
-Invitrogen UltraPure Water | 40mL
+Nuclease Free Water | 40mL
 
 3. Prepare Sample Plate
 4. Transfer 400uL of sample to appropriate well of a deep-well sample plate.
